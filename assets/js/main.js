@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Tanda - IT Solutions Template
+    Template Name   : Frontall USA
     Version         : 1.0
     
 * ================================================================= */
